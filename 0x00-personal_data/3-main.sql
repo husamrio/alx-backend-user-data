@@ -1,4 +1,3 @@
--- ******************
 -- setup mysql server
 -- configure permissions
 CREATE DATABASE IF NOT EXISTS my_db;
